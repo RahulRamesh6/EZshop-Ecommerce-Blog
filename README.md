@@ -16,7 +16,7 @@ This is a Django-based web application consisting of two main sections: an **E-c
 - **Single Post View**: Read detailed posts.
 
 ## Tech Stack:
-- **Frontend**: HTML, CSS, Bootstrap (for responsive design)
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap (for responsive design)
 - **Backend**: Django (Python framework)
 - **Database**: SQLite (default, can be configured to use PostgreSQL, MySQL, etc.)
 
