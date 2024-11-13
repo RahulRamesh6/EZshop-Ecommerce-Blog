@@ -1,4 +1,4 @@
-# Django E-commerce with Blog
+# EZshop - Django E-commerce with Blog
 
 This is a Django-based web application consisting of two main sections: an **E-commerce Store (EZshop)** and a **Blog**. The platform provides a full-featured shopping experience with a catalog of products, order tracking, checkout, and more, while also offering a blogging section to share articles and updates.
 
